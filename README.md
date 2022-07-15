@@ -38,8 +38,8 @@ Movie Ticket Booking App using Flutter
 
 <img src="https://user-images.githubusercontent.com/69889824/179156990-416187ea-2b72-4e82-af64-f6600a38f84a.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179157032-ec2ec718-6c95-4d75-b2f7-111507f5eb15.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179157037-9180d827-2285-4cca-aba1-7d974915c1bb.png" width="300" height="650">
 
-<img src="https://user-images.githubusercontent.com/69889824/179157044-cf2e8522-d1d8-4fba-bd8f-3d9791d72bbf.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179159266-627d3a23-6b1a-423f-9fb4-f48a84815c95.png" width="300" height="650"> 
-<img src="https://user-images.githubusercontent.com/69889824/179157052-aab2bb20-2d4d-48b4-9399-964a0f0d6df7.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179156953-e195b9c3-1a5c-4c9d-9209-8096cab778d3.png" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/69889824/179157044-cf2e8522-d1d8-4fba-bd8f-3d9791d72bbf.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179159418-d5ded486-b184-4fbb-8dad-4231cb21295e.png" width="300" height="650"> 
+<img src="https://user-images.githubusercontent.com/69889824/179159266-627d3a23-6b1a-423f-9fb4-f48a84815c95.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179156953-e195b9c3-1a5c-4c9d-9209-8096cab778d3.png" width="300" height="650">
 
 
 
