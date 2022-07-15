@@ -34,6 +34,6 @@ Movie Ticket Booking App using Flutter
 
 ## How it looks like 
 
-![Screenshot_1657861473](https://user-images.githubusercontent.com/69889824/179156358-5ebae6b4-92e7-413c-b28d-b03b8d68c33a.png | width=50)
+<img src="https://user-images.githubusercontent.com/69889824/179156358-5ebae6b4-92e7-413c-b28d-b03b8d68c33a.png" width="50" height="50">
 
 
