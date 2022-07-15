@@ -36,15 +36,15 @@ Movie Ticket Booking App using Flutter
 
 <img src="https://user-images.githubusercontent.com/69889824/179156358-5ebae6b4-92e7-413c-b28d-b03b8d68c33a.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179156935-ec3d0432-94c1-4654-ab16-a2307c19f4d7.png" width="300" height="650">
 
-<img src="https://user-images.githubusercontent.com/69889824/179156990-416187ea-2b72-4e82-af64-f6600a38f84a.png" width="300" height="650"> <img src="https://user-images.githubusercontent.com/69889824/179157032-ec2ec718-6c95-4d75-b2f7-111507f5eb15.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179157037-9180d827-2285-4cca-aba1-7d974915c1bb.png" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/69889824/179156956-429e2bee-1163-4892-8e32-c5e98e525e66.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179156990-416187ea-2b72-4e82-af64-f6600a38f84a.png" width="300" height="650"> 
+<img src="https://user-images.githubusercontent.com/69889824/179157032-ec2ec718-6c95-4d75-b2f7-111507f5eb15.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179157037-9180d827-2285-4cca-aba1-7d974915c1bb.png" width="300" height="650">
 
 <img src="https://user-images.githubusercontent.com/69889824/179156956-429e2bee-1163-4892-8e32-c5e98e525e66.png" width="300" height="650">  <img src="https://user-images.githubusercontent.com/69889824/179157044-cf2e8522-d1d8-4fba-bd8f-3d9791d72bbf.png" width="300" height="650">
 
 <img src="https://user-images.githubusercontent.com/69889824/179157046-09210bfe-bb72-43c2-a306-27fb350809d7.png" width="300" height="650">
 <img src="https://user-images.githubusercontent.com/69889824/179157052-aab2bb20-2d4d-48b4-9399-964a0f0d6df7.png" width="300" height="650">
 <img src="https://user-images.githubusercontent.com/69889824/179156953-e195b9c3-1a5c-4c9d-9209-8096cab778d3.png" width="300" height="650">
-<img src="https://user-images.githubusercontent.com/69889824/179156990-416187ea-2b72-4e82-af64-f6600a38f84a.png" width="300" height="650">
-<img src="https://user-images.githubusercontent.com/69889824/179157032-ec2ec718-6c95-4d75-b2f7-111507f5eb15.png" width="300" height="650">
+
 
 
 
