@@ -9,7 +9,7 @@ Movie Ticket Booking App using Flutter
 4. Replace the lib folder.
 5. open main.dart and run in an android emulator
 
-## Dependencies/Technology used
+## Technology used
 1. Flutter
 2. Firebase
 3. NodeJS
